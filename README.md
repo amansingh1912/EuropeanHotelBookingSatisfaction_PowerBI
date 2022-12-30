@@ -37,7 +37,7 @@ Also, used DAX measures to create those relevant measures required for the analy
 * Age group 31-50 is the most satisfied whereas 21-30 is the least satisfied among all age groups.
 
 ## Conclusion:
-Overall, it was a nice dataset to analyse and it gave me a good practice over usage of DAX measures and analytical skills.
+Overall, it was a nice dataset to analyse and it gave me a good practice over usage of DAX Measures and analytical skills.
 
 
 
