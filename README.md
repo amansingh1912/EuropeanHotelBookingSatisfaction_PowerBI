@@ -40,7 +40,7 @@ Also, used DAX measures to create those relevant measures required for the analy
 Overall, it was a nice dataset to analyse and it gave me a good practice over usage of DAX Measures and analytical skills.
 
 
-
+### [Highlights of the Report](https://docs.google.com/presentation/d/1pb1Z66wsuCZLpAVWsQOC7peTLEsKrTqX/edit?usp=sharing&ouid=114788542924631223735&rtpof=true&sd=true)
 
 
 
